@@ -1,16 +1,8 @@
 {
     "data": [
         {
-            "name": "我去！！！！！",
-            "en-name": "MyGO!!!!!!"
-        },
-        {
-            "name": "阿部無自覚",
-            "en-name": "Ave Mujica"
-        },
-        {
-            "name": "苦来兮苦",
-            "en-name": "CRYCHIC"
+            "name": ["我去！！！！！", "阿部無自覚", "苦来兮苦"],
+            "en-name": ["MyGO!!!!!!", "Ave Mujica", "CRYCHIC"]
         }
     ]
 }
