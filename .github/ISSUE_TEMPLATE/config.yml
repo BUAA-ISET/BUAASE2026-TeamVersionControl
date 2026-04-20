@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 社区讨论
+    url: https://github.com/your-repo/discussions
+    about: 如有非 bug 或功能请求的问题，欢迎在讨论区交流。
