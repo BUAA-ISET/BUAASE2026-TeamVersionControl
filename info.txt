@@ -1,2 +1,0 @@
-name:cdostan
-description:my name is cdostan
