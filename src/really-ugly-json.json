@@ -1,7 +1,10 @@
 {
-    "data":
-    "I'm", "JUST": 
-         "here","TO"
-  :"ugly",
-           "Yo":"u!"
-    }
+    "data": [
+        "I'm",
+        "JUST",
+        "here",
+        "TO",
+        "ugly",
+        "You!"
+    ]
+}
